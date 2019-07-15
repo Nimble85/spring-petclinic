@@ -5,5 +5,5 @@ COPY  target/*.jar ./
 
 EXPOSE 8080
 EXPOSE 80
-CMD ["java", "-jar", "rd-1.0-SNAPSHOT.jar"]
+CMD ["java", "-jar", "spring-petclinic-2.1.0.BUILD-SNAPSHOT.jar"]
 
