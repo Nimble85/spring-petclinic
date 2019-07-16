@@ -55,3 +55,4 @@ node  {
         sh "docker rmi javaproject:${env.BUILD_ID} "
     }*/
 }
+
